@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 11 Feb 2025 09:07:17 at https://trainer.plomastermind.com/main-es2015.319a7de672b2b7f947a2.js https://trainer.plomastermind.com/polyfills-es2015.a93358e1cf8813cb4159.js https://trainer.plomastermind.com/runtime-es2015.a1ac991fc00ebf39524f.js https://t.plomastermind.com/v1/lst/universal-script?ph=3905dd3e51b37eb9e4200f01580d2957817b4e5a851f2f3b663396f4de8cc1b4&tag=!clicked&ref_url=https://trainer.plomastermind.com/train?type=preflop&tree=GG50_200_100_6&user=EP +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://trainer.plomastermind.com/main-es2015.319a7de672b2b7f947a2.js https://trainer.plomastermind.com/polyfills-es2015.a93358e1cf8813cb4159.js https://trainer.plomastermind.com/runtime-es2015.a1ac991fc00ebf39524f.js https://t.plomastermind.com/v1/lst/universal-script?ph=3905dd3e51b37eb9e4200f01580d2957817b4e5a851f2f3b663396f4de8cc1b4&tag=!clicked&ref_url=https://trainer.plomastermind.com/train?type=preflop&tree=GG50_200_100_6&user=EP -O1 "F:\plotrainer\plotrainer" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 5 links scanned, 4 files written (1640766 bytes overall) [1642575 bytes received at 547525 bytes/sec]
+(No errors, 0 warnings, 0 messages)
